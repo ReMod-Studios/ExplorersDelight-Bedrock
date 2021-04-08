@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "explight:lavender_flower",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 0,
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:flammable": {
+				"burn_odds": 0,
+				"flame_odds": 0
+            },
+            "minecraft:entity_collision": false,
+			"minecraft:pick_collision": {
+                "origin": [-8, 0, 0],
+                "size": [16, 16, 0]
+            },
+			"minecraft:friction": 0.5,
+			"minecraft:explosion_resistance": 0.0,
+			"minecraft:map_color": "#a700c8",
+			"minecraft:geometry": "crosstexture",
+			"minecraft:breathability": "solid",
+			"minecraft:breakonpush": false,
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "lavender_flower",
+					"render_method": "blend"
+				}
+			},
+			"tag:minecraft:flower": {}
+		}
+	}
+}

@@ -1,21 +1,15 @@
-//bridge-file-version: #1
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"boat_willow": {
+		"cobalt_dust": {
 			"textures": [
-				"textures/items/willow_boat"
+				"textures/items/cobalt_dust"
 			]
 		},
-		"boat_pine": {
+		"pine_boat": {
 			"textures": [
 				"textures/items/pine_boat"
-			]
-		},
-		"cobalt": {
-			"textures": [
-				"textures/items/cobalt"
 			]
 		}
 	}

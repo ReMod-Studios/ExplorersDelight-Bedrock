@@ -1,0 +1,42 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "explight:mountain_grass_block",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 1,
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:flammable": {
+				"burn_odds": 0,
+				"flame_odds": 0
+            },
+            "minecraft:unit_cube": {},
+			"minecraft:friction": 0.5,
+			"minecraft:explosion_resistance": 1.0,
+			"minecraft:map_color": "#e25a00",
+			"minecraft:breathability": "solid",
+			"minecraft:breakonpush": false,
+			"minecraft:material_instances": {
+				"*": {
+					"render_method": "opaque"
+                },
+                "up": {
+                    "render_method": "opaque",
+                    "texture": "mountain_grass_top"
+                },
+                "side": {
+                    "render_method": "opaque",
+                    "texture": "mountain_grass_side"
+                },
+                "down": {
+                    "render_method": "opaque",
+                    "texture": "dirt"
+                }
+			},
+			"tag:dirt": {}
+		}
+	}
+}
