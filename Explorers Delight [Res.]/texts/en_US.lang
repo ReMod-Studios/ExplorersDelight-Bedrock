@@ -1,0 +1,14 @@
+##bridge-file-version: #4
+pack.name=Explorers Delight §9[Res.]
+pack.description=An Add-on that aims to expands Vanilla Minecraft in various ways.
+
+##items
+item.explight:pine_boat=Pine Boat
+item.explight:willow_boat=Willow Boat
+item.explight:cobalt=Cobalt
+
+##blocks
+tile.explight:rhyolite.name=Rhyolite
+tile.explight:cobalt_block.name=Cobalt Block
+tile.explight:mountain_flower.name=Mountain Flower
+tile.explight:lavender_flower.name=Lavender Flower

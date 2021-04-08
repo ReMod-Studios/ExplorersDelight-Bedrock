@@ -1,0 +1,37 @@
+//bridge-file-version: #1
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"rhyolite": {
+			"textures": [
+				{
+					"path": "textures/blocks/Rhyolite"
+				}
+			]
+		},
+		"cobalt_block": {
+			"textures": [
+				{
+					"path": "textures/blocks/cobalt_block"
+				}
+			]
+		},
+		"flower_lavender": {
+			"textures": [
+				{
+					"path": "textures/blocks/Lavender"
+				}
+			]
+		},
+		"flower_mountain": {
+			"textures": [
+				{
+					"path": "textures/blocks/Mountain_flower"
+				}
+			]
+		}
+	}
+}

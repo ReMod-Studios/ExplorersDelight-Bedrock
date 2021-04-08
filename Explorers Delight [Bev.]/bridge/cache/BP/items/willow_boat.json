@@ -1,0 +1,246 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Explorers Delight [Bev.]\\items\\willow_boat.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "2ca0b11a_a120_4799_a209_62e8dc924744",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "explight:willow_boat",
+							"category": "items"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:hand_equipped": false,
+							"minecraft:stacked_by_data": true,
+							"minecraft:foil": false,
+							"minecraft:ignores_permission": true,
+							"minecraft:liquid_clipped": true,
+							"minecraft:entity_placer": {
+								"entity": "explight:willow_boat"
+							},
+							"minecraft:icon": {
+								"texture": "boat_willow"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.boat"
+							},
+							"minecraft:display_name": {
+								"value": "Willow Boat"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "explight:willow_boat",
+								"category": "items"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:hand_equipped": false,
+								"minecraft:stacked_by_data": true,
+								"minecraft:foil": false,
+								"minecraft:ignores_permission": true,
+								"minecraft:liquid_clipped": true,
+								"minecraft:entity_placer": {
+									"entity": "explight:willow_boat"
+								},
+								"minecraft:icon": {
+									"texture": "boat_willow"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.boat"
+								},
+								"minecraft:display_name": {
+									"value": "Willow Boat"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "explight:willow_boat",
+							"category": "items"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "explight:willow_boat",
+								"category": "items"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:hand_equipped": false,
+								"minecraft:stacked_by_data": true,
+								"minecraft:foil": false,
+								"minecraft:ignores_permission": true,
+								"minecraft:liquid_clipped": true,
+								"minecraft:entity_placer": {
+									"entity": "explight:willow_boat"
+								},
+								"minecraft:icon": {
+									"texture": "boat_willow"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.boat"
+								},
+								"minecraft:display_name": {
+									"value": "Willow Boat"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:hand_equipped"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:stacked_by_data"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:foil"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:ignores_permission"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:liquid_clipped"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:hand_equipped": false,
+									"minecraft:stacked_by_data": true,
+									"minecraft:foil": false,
+									"minecraft:ignores_permission": true,
+									"minecraft:liquid_clipped": true,
+									"minecraft:entity_placer": {
+										"entity": "explight:willow_boat"
+									},
+									"minecraft:icon": {
+										"texture": "boat_willow"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.boat"
+									},
+									"minecraft:display_name": {
+										"value": "Willow Boat"
+									}
+								},
+								"key": "minecraft:entity_placer",
+								"is_minified": true,
+								"children": {
+									"entity": "explight:willow_boat"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:hand_equipped": false,
+									"minecraft:stacked_by_data": true,
+									"minecraft:foil": false,
+									"minecraft:ignores_permission": true,
+									"minecraft:liquid_clipped": true,
+									"minecraft:entity_placer": {
+										"entity": "explight:willow_boat"
+									},
+									"minecraft:icon": {
+										"texture": "boat_willow"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.boat"
+									},
+									"minecraft:display_name": {
+										"value": "Willow Boat"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "boat_willow"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:hand_equipped": false,
+									"minecraft:stacked_by_data": true,
+									"minecraft:foil": false,
+									"minecraft:ignores_permission": true,
+									"minecraft:liquid_clipped": true,
+									"minecraft:entity_placer": {
+										"entity": "explight:willow_boat"
+									},
+									"minecraft:icon": {
+										"texture": "boat_willow"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.boat"
+									},
+									"minecraft:display_name": {
+										"value": "Willow Boat"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.boat"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:hand_equipped": false,
+									"minecraft:stacked_by_data": true,
+									"minecraft:foil": false,
+									"minecraft:ignores_permission": true,
+									"minecraft:liquid_clipped": true,
+									"minecraft:entity_placer": {
+										"entity": "explight:willow_boat"
+									},
+									"minecraft:icon": {
+										"texture": "boat_willow"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.boat"
+									},
+									"minecraft:display_name": {
+										"value": "Willow Boat"
+									}
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Willow Boat"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

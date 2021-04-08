@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "78cc00d1_9128_47ec_96d1_7bb32968ce19",
+	"file_version": 4,
+	"cache_content": "pack.name=Explorers Delight §9[Res.]\r\npack.description=An Add-on that aims to expands Vanilla Minecraft in various ways.\r\n\r\n##items\r\nitem.explight:pine_boat=Pine Boat\r\nitem.explight:willow_boat=Willow Boat\r\nitem.explight:cobalt=Cobalt\r\n\r\n##blocks\r\ntile.explight:rhyolite.name=Rhyolite\r\ntile.explight:cobalt_block.name=Cobalt Block\r\ntile.explight:mountain_flower.name=Mountain Flower\r\ntile.explight:lavender_flower.name=Lavender Flower"
+}

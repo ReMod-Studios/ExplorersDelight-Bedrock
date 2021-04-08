@@ -1,0 +1,14 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\textures\\textures_list.json",
+	"file_type": "textures_list",
+	"format_version": 1,
+	"file_uuid": "2a307605_ef7d_4499_93a7_12a5456fa264",
+	"file_version": 0,
+	"cache_content": {
+		"is_minified": true,
+		"children": [
+			"textures/entities/pine",
+			"textures/entities/willow"
+		]
+	}
+}

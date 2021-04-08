@@ -1,0 +1,147 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\textures\\item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "cad44347_d0bb_4491_b60b_868dd232b211",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.items",
+				"key": "texture_name"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"boat_willow": {
+							"textures": [
+								"textures/items/willow_boat"
+							]
+						},
+						"boat_pine": {
+							"textures": [
+								"textures/items/pine_boat"
+							]
+						},
+						"cobalt": {
+							"textures": [
+								"textures/items/cobalt"
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"boat_willow": {
+								"textures": [
+									"textures/items/willow_boat"
+								]
+							},
+							"boat_pine": {
+								"textures": [
+									"textures/items/pine_boat"
+								]
+							},
+							"cobalt": {
+								"textures": [
+									"textures/items/cobalt"
+								]
+							}
+						},
+						"key": "boat_willow",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/willow_boat"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/willow_boat"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"boat_willow": {
+								"textures": [
+									"textures/items/willow_boat"
+								]
+							},
+							"boat_pine": {
+								"textures": [
+									"textures/items/pine_boat"
+								]
+							},
+							"cobalt": {
+								"textures": [
+									"textures/items/cobalt"
+								]
+							}
+						},
+						"key": "boat_pine",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/pine_boat"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/pine_boat"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"boat_willow": {
+								"textures": [
+									"textures/items/willow_boat"
+								]
+							},
+							"boat_pine": {
+								"textures": [
+									"textures/items/pine_boat"
+								]
+							},
+							"cobalt": {
+								"textures": [
+									"textures/items/cobalt"
+								]
+							}
+						},
+						"key": "cobalt",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/cobalt"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/cobalt"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

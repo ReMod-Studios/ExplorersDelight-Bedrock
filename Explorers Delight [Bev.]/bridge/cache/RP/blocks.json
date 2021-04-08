@@ -1,0 +1,134 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\blocks.json",
+	"file_type": "client_block",
+	"format_version": 1,
+	"file_uuid": "b97c37b5_e164_4145_91e6_df6d0423b4a3",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"key": "format_version",
+				"is_minified": true,
+				"children": [
+					1,
+					1,
+					0
+				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"explight:rhyolite": {
+						"sound": "stone",
+						"textures": "rhyolite"
+					},
+					"explight:cobalt_block": {
+						"sound": "stone",
+						"textures": "cobalt_block"
+					},
+					"explight:mountain_flower": {
+						"sound": "grass"
+					},
+					"explight:lavender_flower": {
+						"sound": "grass"
+					}
+				},
+				"key": "explight:rhyolite",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "rhyolite"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"explight:rhyolite": {
+						"sound": "stone",
+						"textures": "rhyolite"
+					},
+					"explight:cobalt_block": {
+						"sound": "stone",
+						"textures": "cobalt_block"
+					},
+					"explight:mountain_flower": {
+						"sound": "grass"
+					},
+					"explight:lavender_flower": {
+						"sound": "grass"
+					}
+				},
+				"key": "explight:cobalt_block",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "cobalt_block"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"explight:rhyolite": {
+						"sound": "stone",
+						"textures": "rhyolite"
+					},
+					"explight:cobalt_block": {
+						"sound": "stone",
+						"textures": "cobalt_block"
+					},
+					"explight:mountain_flower": {
+						"sound": "grass"
+					},
+					"explight:lavender_flower": {
+						"sound": "grass"
+					}
+				},
+				"key": "explight:mountain_flower",
+				"is_minified": true,
+				"children": {
+					"sound": "grass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"explight:rhyolite": {
+						"sound": "stone",
+						"textures": "rhyolite"
+					},
+					"explight:cobalt_block": {
+						"sound": "stone",
+						"textures": "cobalt_block"
+					},
+					"explight:mountain_flower": {
+						"sound": "grass"
+					},
+					"explight:lavender_flower": {
+						"sound": "grass"
+					}
+				},
+				"key": "explight:lavender_flower",
+				"is_minified": true,
+				"children": {
+					"sound": "grass"
+				}
+			}
+		]
+	}
+}

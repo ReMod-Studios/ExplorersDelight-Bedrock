@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "explight:pine_boat",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": false,
+			"minecraft:stacked_by_data": true,
+			"minecraft:foil": false,
+			"minecraft:ignores_permission": true,
+			"minecraft:liquid_clipped": true,
+			"minecraft:entity_placer": {
+				"entity": "explight:pine_boat"
+			},
+			"minecraft:icon": {
+				"texture": "boat_pine"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.boat"
+			},
+			"minecraft:display_name": {
+				"value": "Pine Boat"
+			}
+		},
+		"events": {}
+	}
+}

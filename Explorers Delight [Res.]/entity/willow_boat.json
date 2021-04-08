@@ -1,0 +1,21 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "explight:willow_boat",
+			"textures": {
+				"default": "textures/entities/willow"
+			},
+			"geometry": {
+				"default": "geometry.boat"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"materials": {
+				"default": "boat"
+			}
+		}
+	}
+}

@@ -1,0 +1,300 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\textures\\terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "bf726ded_ec03_42ac_ae3f_c423b7e8f0e5",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.terrain",
+				"key": "texture_name"
+			},
+			{
+				"data": "8",
+				"key": "padding"
+			},
+			{
+				"data": "4",
+				"key": "num_mip_levels"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"rhyolite": {
+							"textures": [
+								{
+									"path": "textures/blocks/Rhyolite"
+								}
+							]
+						},
+						"cobalt_block": {
+							"textures": [
+								{
+									"path": "textures/blocks/cobalt_block"
+								}
+							]
+						},
+						"flower_lavender": {
+							"textures": [
+								{
+									"path": "textures/blocks/Lavender"
+								}
+							]
+						},
+						"flower_mountain": {
+							"textures": [
+								{
+									"path": "textures/blocks/Mountain_flower"
+								}
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"rhyolite": {
+								"textures": [
+									{
+										"path": "textures/blocks/Rhyolite"
+									}
+								]
+							},
+							"cobalt_block": {
+								"textures": [
+									{
+										"path": "textures/blocks/cobalt_block"
+									}
+								]
+							},
+							"flower_lavender": {
+								"textures": [
+									{
+										"path": "textures/blocks/Lavender"
+									}
+								]
+							},
+							"flower_mountain": {
+								"textures": [
+									{
+										"path": "textures/blocks/Mountain_flower"
+									}
+								]
+							}
+						},
+						"key": "rhyolite",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										{
+											"path": "textures/blocks/Rhyolite"
+										}
+									]
+								},
+								"key": "textures",
+								"children": [
+									{
+										"open": [
+											{
+												"path": "textures/blocks/Rhyolite"
+											}
+										],
+										"is_minified": true,
+										"children": {
+											"path": "textures/blocks/Rhyolite"
+										}
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"rhyolite": {
+								"textures": [
+									{
+										"path": "textures/blocks/Rhyolite"
+									}
+								]
+							},
+							"cobalt_block": {
+								"textures": [
+									{
+										"path": "textures/blocks/cobalt_block"
+									}
+								]
+							},
+							"flower_lavender": {
+								"textures": [
+									{
+										"path": "textures/blocks/Lavender"
+									}
+								]
+							},
+							"flower_mountain": {
+								"textures": [
+									{
+										"path": "textures/blocks/Mountain_flower"
+									}
+								]
+							}
+						},
+						"key": "cobalt_block",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										{
+											"path": "textures/blocks/cobalt_block"
+										}
+									]
+								},
+								"key": "textures",
+								"children": [
+									{
+										"open": [
+											{
+												"path": "textures/blocks/cobalt_block"
+											}
+										],
+										"is_minified": true,
+										"children": {
+											"path": "textures/blocks/cobalt_block"
+										}
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"rhyolite": {
+								"textures": [
+									{
+										"path": "textures/blocks/Rhyolite"
+									}
+								]
+							},
+							"cobalt_block": {
+								"textures": [
+									{
+										"path": "textures/blocks/cobalt_block"
+									}
+								]
+							},
+							"flower_lavender": {
+								"textures": [
+									{
+										"path": "textures/blocks/Lavender"
+									}
+								]
+							},
+							"flower_mountain": {
+								"textures": [
+									{
+										"path": "textures/blocks/Mountain_flower"
+									}
+								]
+							}
+						},
+						"key": "flower_lavender",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										{
+											"path": "textures/blocks/Lavender"
+										}
+									]
+								},
+								"key": "textures",
+								"children": [
+									{
+										"open": [
+											{
+												"path": "textures/blocks/Lavender"
+											}
+										],
+										"is_minified": true,
+										"children": {
+											"path": "textures/blocks/Lavender"
+										}
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"rhyolite": {
+								"textures": [
+									{
+										"path": "textures/blocks/Rhyolite"
+									}
+								]
+							},
+							"cobalt_block": {
+								"textures": [
+									{
+										"path": "textures/blocks/cobalt_block"
+									}
+								]
+							},
+							"flower_lavender": {
+								"textures": [
+									{
+										"path": "textures/blocks/Lavender"
+									}
+								]
+							},
+							"flower_mountain": {
+								"textures": [
+									{
+										"path": "textures/blocks/Mountain_flower"
+									}
+								]
+							}
+						},
+						"key": "flower_mountain",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										{
+											"path": "textures/blocks/Mountain_flower"
+										}
+									]
+								},
+								"key": "textures",
+								"children": [
+									{
+										"open": [
+											{
+												"path": "textures/blocks/Mountain_flower"
+											}
+										],
+										"is_minified": true,
+										"children": {
+											"path": "textures/blocks/Mountain_flower"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

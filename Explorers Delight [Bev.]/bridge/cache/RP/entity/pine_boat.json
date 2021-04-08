@@ -1,0 +1,139 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\entity\\pine_boat.json",
+	"file_type": "client_entity",
+	"format_version": 1,
+	"file_uuid": "445b246a_dd39_47f1_b70f_6f7941a2266c",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.10.0",
+					"minecraft:client_entity": {
+						"description": {
+							"identifier": "explight:pine_boat",
+							"textures": {
+								"default": "textures/entities/pine"
+							},
+							"geometry": {
+								"default": "geometry.boat"
+							},
+							"render_controllers": [
+								"controller.render.default"
+							],
+							"materials": {
+								"default": "boat"
+							}
+						}
+					}
+				},
+				"key": "minecraft:client_entity",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "explight:pine_boat",
+								"textures": {
+									"default": "textures/entities/pine"
+								},
+								"geometry": {
+									"default": "geometry.boat"
+								},
+								"render_controllers": [
+									"controller.render.default"
+								],
+								"materials": {
+									"default": "boat"
+								}
+							}
+						},
+						"key": "description",
+						"children": [
+							{
+								"data": "explight:pine_boat",
+								"key": "identifier"
+							},
+							{
+								"open": {
+									"identifier": "explight:pine_boat",
+									"textures": {
+										"default": "textures/entities/pine"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": {
+									"default": "textures/entities/pine"
+								}
+							},
+							{
+								"key": "geometry",
+								"is_minified": true,
+								"children": {
+									"default": "geometry.boat"
+								}
+							},
+							{
+								"open": {
+									"identifier": "explight:pine_boat",
+									"textures": {
+										"default": "textures/entities/pine"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "render_controllers",
+								"is_minified": true,
+								"children": [
+									"controller.render.default"
+								]
+							},
+							{
+								"open": {
+									"identifier": "explight:pine_boat",
+									"textures": {
+										"default": "textures/entities/pine"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "materials",
+								"is_minified": true,
+								"children": {
+									"default": "boat"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

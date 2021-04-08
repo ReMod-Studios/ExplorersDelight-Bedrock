@@ -1,0 +1,141 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Explorers Delight [Bev.]\\loot_tables\\blocks\\cobalt_block.json",
+	"file_type": "loot_table",
+	"format_version": 1,
+	"file_uuid": "26cdef4b_1461_4881_9808_837edf2f43da",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"pools": [
+						{
+							"rolls": 1,
+							"entries": [
+								{
+									"type": "item",
+									"name": "explight:cobalt_block",
+									"weight": 1,
+									"functions": [
+										{
+											"function": "set_count",
+											"count": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"key": "pools",
+				"children": [
+					{
+						"open": [
+							{
+								"rolls": 1,
+								"entries": [
+									{
+										"type": "item",
+										"name": "explight:cobalt_block",
+										"weight": 1,
+										"functions": [
+											{
+												"function": "set_count",
+												"count": 1
+											}
+										]
+									}
+								]
+							}
+						],
+						"children": [
+							{
+								"data": "1",
+								"key": "rolls"
+							},
+							{
+								"open": {
+									"rolls": 1,
+									"entries": [
+										{
+											"type": "item",
+											"name": "explight:cobalt_block",
+											"weight": 1,
+											"functions": [
+												{
+													"function": "set_count",
+													"count": 1
+												}
+											]
+										}
+									]
+								},
+								"key": "entries",
+								"children": [
+									{
+										"open": [
+											{
+												"type": "item",
+												"name": "explight:cobalt_block",
+												"weight": 1,
+												"functions": [
+													{
+														"function": "set_count",
+														"count": 1
+													}
+												]
+											}
+										],
+										"children": [
+											{
+												"data": "item",
+												"key": "type"
+											},
+											{
+												"data": "explight:cobalt_block",
+												"key": "name"
+											},
+											{
+												"data": "1",
+												"key": "weight"
+											},
+											{
+												"open": {
+													"type": "item",
+													"name": "explight:cobalt_block",
+													"weight": 1,
+													"functions": [
+														{
+															"function": "set_count",
+															"count": 1
+														}
+													]
+												},
+												"key": "functions",
+												"children": [
+													{
+														"open": [
+															{
+																"function": "set_count",
+																"count": 1
+															}
+														],
+														"is_minified": true,
+														"children": {
+															"function": "set_count",
+															"count": 1
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

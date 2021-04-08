@@ -1,0 +1,154 @@
+{
+	"file_path": "C:\\Users\\IshatGupta\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Explorers Delight [Res.]\\entity\\willow_boat.json",
+	"file_type": "client_entity",
+	"format_version": 1,
+	"file_uuid": "5be7c5de_6294_4309_9334_02e3bfebe36f",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.10.0",
+					"minecraft:client_entity": {
+						"description": {
+							"identifier": "explight:willow_boat",
+							"textures": {
+								"default": "textures/entities/willow"
+							},
+							"geometry": {
+								"default": "geometry.boat"
+							},
+							"render_controllers": [
+								"controller.render.default"
+							],
+							"materials": {
+								"default": "boat"
+							}
+						}
+					}
+				},
+				"key": "minecraft:client_entity",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "explight:willow_boat",
+								"textures": {
+									"default": "textures/entities/willow"
+								},
+								"geometry": {
+									"default": "geometry.boat"
+								},
+								"render_controllers": [
+									"controller.render.default"
+								],
+								"materials": {
+									"default": "boat"
+								}
+							}
+						},
+						"key": "description",
+						"children": [
+							{
+								"data": "explight:willow_boat",
+								"key": "identifier"
+							},
+							{
+								"open": {
+									"identifier": "explight:willow_boat",
+									"textures": {
+										"default": "textures/entities/willow"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": {
+									"default": "textures/entities/willow"
+								}
+							},
+							{
+								"open": {
+									"identifier": "explight:willow_boat",
+									"textures": {
+										"default": "textures/entities/willow"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "geometry",
+								"is_minified": true,
+								"children": {
+									"default": "geometry.boat"
+								}
+							},
+							{
+								"open": {
+									"identifier": "explight:willow_boat",
+									"textures": {
+										"default": "textures/entities/willow"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "render_controllers",
+								"is_minified": true,
+								"children": [
+									"controller.render.default"
+								]
+							},
+							{
+								"open": {
+									"identifier": "explight:willow_boat",
+									"textures": {
+										"default": "textures/entities/willow"
+									},
+									"geometry": {
+										"default": "geometry.boat"
+									},
+									"render_controllers": [
+										"controller.render.default"
+									],
+									"materials": {
+										"default": "boat"
+									}
+								},
+								"key": "materials",
+								"is_minified": true,
+								"children": {
+									"default": "boat"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
