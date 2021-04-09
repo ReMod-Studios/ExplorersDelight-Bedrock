@@ -39,7 +39,7 @@
 				}
 			]
 		},
-		"mountain_grass_top": {
+		"mountain_grass_up": {
 			"textures": [
 				{
 					"path": "textures/blocks/mountain_grass_top"

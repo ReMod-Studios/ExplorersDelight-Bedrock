@@ -18,6 +18,7 @@ tile.explight:pine_trapdoor.name=Pine Trapdoor
 tile.explight:pine_leaves.name=Pine Leaves
 
 tile.explight:mountain_grass.name=Mountain Grass
+tile.explight:mountain_grass_block.name=Mountain Grass Block
 tile.explight:rhyolite.name=Rhyolite
 tile.explight:cobalt_ore.name=Cobalt Ore
 tile.explight:cobalt_block.name=Cobalt Block

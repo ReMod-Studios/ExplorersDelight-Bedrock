@@ -15,13 +15,13 @@
             },
             "minecraft:entity_collision": false,
 			"minecraft:pick_collision": {
-                "origin": [-8, 0, 0],
-                "size": [16, 16, 0]
+                "origin": [-2, 0, -2],
+                "size": [4, 8, 4]
             },
 			"minecraft:friction": 0.5,
 			"minecraft:explosion_resistance": 0.0,
 			"minecraft:map_color": "#e25a00",
-			"minecraft:geometry": "crosstexture",
+			"minecraft:geometry": "geometry.crosstexture",
 			"minecraft:breathability": "solid",
 			"minecraft:breakonpush": false,
 			"minecraft:material_instances": {

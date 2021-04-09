@@ -20,7 +20,15 @@
 		"sound": "grass"
 	},
 	"explight:mountain_grass": {
-		"sound": "grass"
+		"sound": "grass",
+		"textures": {
+			"down": "dirt",
+			"side": "mountain_grass_side",
+			"up": "mountain_grass_up"
+		},
+		"isotropic": {
+			"up": true
+		}
 	},
 	"explight:mountain_grass_block": {
 		"sound": "dirt"
